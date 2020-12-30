@@ -5,3 +5,7 @@
 	padding: 5px;
 	background-color: beige;
 }
+img {
+       border: 3px solid black;
+       
+       }
